@@ -31,15 +31,15 @@ Click https://drive.google.com/file/d/1j5rjSOnQol7ovM6j-cI9oslBV150rppe/view?usp
 
 
 List of materials needed
-1)Node MCU-ESP8266 Module -  Link Here
+1)Node MCU-ESP8266 Module -  Link https://www.amazon.in/Lolin-NodeMCU-ESP8266-CP2102-Wireless/dp/B010O1G1ES/ref=sr_1_4?crid=2I72FWKT93W8Q&keywords=esp8266&qid=1696227403&sprefix=esp8266%2Caps%2C271&sr=8-4#customerReviewshttps://www.amazon.in/Lolin-NodeMCU-ESP8266-CP2102-Wireless/dp/B010O1G1ES/ref=sr_1_4?crid=2I72FWKT93W8Q&keywords=esp8266&qid=1696227403&sprefix=esp8266%2Caps%2C271&sr=8-4#customerReviews
 
-2)DHT11 Sensor Module - Link Here
+2)DHT11 Sensor Module - Link https://www.amazon.in/Robodo-Electronics-DHT11-Temperature-Raspberry/dp/B00BOMEO5U/ref=sr_1_1?crid=1E1ZJLWPOM2OT&keywords=DHT11&qid=1696227574&sprefix=dht1%2Caps%2C201&sr=8-1
 
-3)Soil Moisture Sensor Module- Link Here
+3)Soil Moisture Sensor Module- Link https://www.amazon.in/EVANA-Moisture-Hygrometer-Detection-Multicolour/dp/B01AV14S00/ref=sr_1_5?crid=1CGDGISLJSKEN&keywords=soil+moisture+sensor&qid=1696345892&sprefix=soil+moisture+senso%2Caps%2C272&sr=8-5
 
-4)Female to Female Jumper wires - Link Here
+4)Female to Female Jumper wires - Link https://www.amazon.in/ApTechDeals-Jumper-Female-breadboard-jumper/dp/B074J9CPV3/ref=sr_1_4?crid=R3EUKIUR46Z2&keywords=female+to+female+jumper+wires&qid=1696227915&sprefix=female+to+female%2Caps%2C200&sr=8-4
 
-5)300 RPM 12 DC Motor- Link Here
+5)300 RPM 12 DC Motor- Link https://www.amazon.in/Robodo-Electronics-Johnson-Geared-Robotics/dp/B00N4O7GU6/ref=sr_1_2?crid=186FS0ZSRNZXM&keywords=300+rpm+gear+motor+12v+dc&qid=1696227976&sprefix=300+rpm+dc+motor%2Caps%2C209&sr=8-2
 
 6)Compost bin/any other large bucket with a lid
 
@@ -53,7 +53,7 @@ List of materials needed
 
 11)Pulley Band
 
-12)5V Relay - Link Here
+12)5V Relay - Link https://www.amazon.in/Channel-Module-Switch-Isolation-Trigger/dp/B08242LQ68/ref=sr_1_2?crid=35NN9SG128DJ0&keywords=5v+relay&qid=1696231316&sprefix=5v+relay%2Caps%2C195&sr=8-2
 
 13)Ball bearing 
 
