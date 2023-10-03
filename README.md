@@ -8,8 +8,8 @@ Idea
 A device that measures and tracks various parameters required for proper decomposition.
 
 Prototypes and rejected versions
-Click [Here](https://drive.google.com/file/d/1NsjOQaT7277Kws2XYOTswzE_B9CkjLqm/view?usp=sharing) for pictures.
-Video Link- [Here]([url](https://drive.google.com/file/d/196XE0vtusxOqqEp6j_u0zVQryOqMpwhY/view?usp=sharing))
+Click https://drive.google.com/file/d/1NsjOQaT7277Kws2XYOTswzE_B9CkjLqm/view?usp=sharing for pictures.
+Video Link- https://drive.google.com/file/d/196XE0vtusxOqqEp6j_u0zVQryOqMpwhY/view?usp=sharing
 
 Final Project idea /Solution
 An ESP  based device that checks Compost Moisture and outside temperature,humidity conditions to give recommendations to users using a mobile application.It also turns the compost in order for all of it to be exposed to oxygen and heat which increases the efficiency of the method and completely automates it.   
@@ -26,7 +26,7 @@ Objectives of the project
 
 
 Block diagram based on objectives
-Click [Here]([url](https://drive.google.com/file/d/1j5rjSOnQol7ovM6j-cI9oslBV150rppe/view?usp=sharing)) for pictures
+Click https://drive.google.com/file/d/1j5rjSOnQol7ovM6j-cI9oslBV150rppe/view?usp=sharing for pictures
 
 
 
@@ -74,11 +74,11 @@ Assembly and debugging
 
 For the assembly use a bucket and a cap or slit the diameter of that bucket to put in the components such as the motor, DHT11 sensor and the soil humidity sensor.
 
-Click [Here]([url](https://drive.google.com/file/d/1snu3IY4oP5G4K0erBR5lxHsDfZ9WPsQx/view?usp=sharing)) for pictures
+Click https://drive.google.com/file/d/1snu3IY4oP5G4K0erBR5lxHsDfZ9WPsQx/view?usp=sharing for pictures
 
 We didn’t find a lot of bugs while programming as the code is very straightforward and simple however it would be good to check that all your components are working accurately before running the master code.
 
 Final project demonstration video-  
 
-Click [Here]([url](https://drive.google.com/file/d/14JdgYnkZ9MLAtqW5SuIytds9uqhCBcYh/view?usp=drive_link)https://drive.google.com/file/d/14JdgYnkZ9MLAtqW5SuIytds9uqhCBcYh/view?usp=drive_link)
+Click https://drive.google.com/file/d/14JdgYnkZ9MLAtqW5SuIytds9uqhCBcYh/view?usp=drive_link
 
