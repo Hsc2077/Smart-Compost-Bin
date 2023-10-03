@@ -8,7 +8,7 @@ Idea
 A device that measures and tracks various parameters required for proper decomposition.
 
 Prototypes and rejected versions
-Click [Here]([url](https://drive.google.com/file/d/1NsjOQaT7277Kws2XYOTswzE_B9CkjLqm/view?usp=sharing)) for pictures.
+Click [Here](https://drive.google.com/file/d/1NsjOQaT7277Kws2XYOTswzE_B9CkjLqm/view?usp=sharing) for pictures.
 Video Link- [Here]([url](https://drive.google.com/file/d/196XE0vtusxOqqEp6j_u0zVQryOqMpwhY/view?usp=sharing))
 
 Final Project idea /Solution
